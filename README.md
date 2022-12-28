@@ -1,5 +1,5 @@
 # Hello I’m Dong Young Kim
-*I’m currently in my master's degree in artificial intelligence, Korea University.* (Lab: Pattern Recognition and Machine Learning Lab) ![PRML](http://ibi.korea.ac.kr/)
+*I’m currently in my master's degree in artificial intelligence, Korea University.* (Lab: Pattern Recognition and Machine Learning Lab) [\[PRML\]](http://ibi.korea.ac.kr/)
 
 ### Research Interest
 ---
