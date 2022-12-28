@@ -1,5 +1,4 @@
 # Hello I’m Dong Young Kim
-## 🎓 Education
 I’m currently in my master's degree in artificial intelligence, Korea University.
 
 ### :mortar_board: Education
