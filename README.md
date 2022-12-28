@@ -1,7 +1,12 @@
 # Hello I’m Dong Young Kim
-I’m currently in my master's degree in artificial intelligence, Korea University.
+*I’m currently in my master's degree in artificial intelligence, Korea University.* (Lab: Pattern Recognition and Machine Learning Lab) ![PRML](http://ibi.korea.ac.kr/)
+
+### Research Interest
+---
+- 
 
 ### :mortar_board: Education
+---
 - M.S. in Department of Artificial Intelligence, Korea University `2021.03 ~ 2023.02 (Expected)`
 - B.S. in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
 
