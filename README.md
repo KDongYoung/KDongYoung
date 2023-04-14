@@ -13,7 +13,7 @@
 - Advanced Driver Assistance System
 
 ### :mortar_board: Education
-- M.S. in Department of Artificial Intelligence, Korea University `2021.03 ~ 2023.02 (Expected)`
+- M.S. in Department of Artificial Intelligence, Korea University `2021.03 ~ 2023.02`
 - B.S. in School of Data Science, Kwangwoon University `2017.03 ~ 2021.02`
 
 #### Contact 📫 dongyoung919@gmail.com
