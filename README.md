@@ -1,9 +1,9 @@
-# Hello I’m Dong Young Kim
+# Nice to meet you, I’m Dong Young Kim
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2FKDongYoung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Github Followers](https://img.shields.io/github/followers/KDongYoung?style=plastic) 
 
-# *I am currently working on experience.* 
+I am working on to improve more.
 
 ### Research Interest
 - Data Science
