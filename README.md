@@ -11,6 +11,7 @@
 - Machine Learning
 - Brain-Computer Interface
 - Advanced Driver Assistance System
+- Digital Healthcare
 
 ### :mortar_board: Education
 - M.S. in Department of Artificial Intelligence, Korea University `2021.03 ~ 2023.02`
